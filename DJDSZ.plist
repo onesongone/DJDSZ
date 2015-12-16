@@ -35,7 +35,7 @@
            <string>com.by.dj.inhouse</string>
            <!-- optional (software only) -->
            <key>bundle-version</key>
-           <string>20151214</string>
+           <string>1.0.0.0</string>
            <key>kind</key>
            <string>software</string>
            <key>subtitle</key>

@@ -10,7 +10,7 @@
              <key>kind</key>
              <string>software-package</string>
              <key>url</key>
-             <string>http://10.12.4.173/lib/exe/fetch.php?media=projectn:fsfx.ipa</string>
+             <string>http://10.12.4.173/lib/exe/fetch.php?media=projectn:runaway.ipa</string>
            </dict>
            <dict>
              <key>kind</key>
@@ -39,9 +39,9 @@
            <key>kind</key>
            <string>software</string>
            <key>subtitle</key>
-           <string>辐射废墟</string>
+           <string>runaway</string>
            <key>title</key>
-           <string>辐射废墟</string>
+           <string>runaway</string>
          </dict>
        </dict>
 	   </array>

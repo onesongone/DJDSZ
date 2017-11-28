@@ -32,10 +32,10 @@
          <dict>
            <!-- required -->
            <key>bundle-identifier</key>
-           <string>com.by.dj.inhouse</string>
+           <string>m.cyou.runaway.inhousese</string>
            <!-- optional (software only) -->
            <key>bundle-version</key>
-           <string>1.5.8.0</string>
+           <string>0.1.0</string>
            <key>kind</key>
            <string>software</string>
            <key>subtitle</key>
